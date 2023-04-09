@@ -1,0 +1,16 @@
+{
+  "name": "@zeitfall/renderer",
+  "version": "1.0.0",
+  "description": "A simple canvas renderer.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeitfall/renderer.git"
+  },
+  "keywords": [
+    "canvas",
+    "renderer",
+    "typescript"
+  ],
+  "author": "zeitfall <zzeitfall@gmail.com>",
+  "license": "ISC"
+}
